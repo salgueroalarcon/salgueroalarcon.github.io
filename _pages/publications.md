@@ -37,7 +37,7 @@ author_profile: true
 
 8. *Twisted sums with $c_0(I)$* (with J. M. F. Castillo), Quaest. Math. 46, No. 11, 2339-2554 (2023). **[<a href="https://arxiv.org/abs/2204.01704" target="_blank">arXiv</a>] \| [<a href="https://www.tandfonline.com/doi/abs/10.2989/16073606.2022.2146546" target="_blank">journal</a>]**
 
-9. *On the three-space property for C(K)-spaces* (with G. Plebanek), J. Funct. Anal. 281, No. 9, Paper No. 109193, 15 p. (2021). **[<a href="https://arxiv.org/abs/2602.17485" target="_blank">arXiv</a>] \| [<a href="https://www.sciencedirect.com/science/article/pii/S0022123621002755" target="_blank">journal</a>]**
+9. *On the three-space property for $C(K)$-spaces* (with G. Plebanek), J. Funct. Anal. 281, No. 9, Paper No. 109193, 15 p. (2021). **[<a href="https://arxiv.org/abs/2602.17485" target="_blank">arXiv</a>] \| [<a href="https://www.sciencedirect.com/science/article/pii/S0022123621002755" target="_blank">journal</a>]**
 
 10. *Sailing over three problems of Koszmider* (with F. Cabello Sánchez, J. M. F. Castillo, W. Marciszewski and G. Plebanek), J. Funct. Anal. 279, No. 4., Paper No. 108571, 21 p. (2020). **[<a href="https://arxiv.org/abs/1910.07273" target="_blank">arXiv</a>] \| [<a href="https://www.sciencedirect.com/science/article/pii/S0022123620301142" target="_blank">journal</a>]**
 
