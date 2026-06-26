@@ -18,14 +18,3 @@
   </ul>
 </div>
 {% endif %}
-
-<style>
-  .page__footer {
-    padding-top: 0.8em !important;   /* Reduce el espacio superior */
-    padding-bottom: 0.8em !important;/* Reduce el espacio inferior */
-    margin-top: 2em !important;      /* Controla la distancia con el contenido de arriba */
-  }
-</style>
-
- &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}.<br />
-  Site last updated {{ "now" | date: '%Y-%m-%d' }}, <a href="/sitemap/" style="text-transform: uppercase;">{{ site.data.ui-text[site.locale].site_map | default: "Sitemap" }}</a>
