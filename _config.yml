@@ -364,3 +364,13 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+head_scripts:
+  - |
+    <style>
+      .page__footer {
+        padding-top: 0.8em !important;
+        padding-bottom: 0.8em !important;
+        margin-top: 1.5em !important;
+      }
+    </style>
