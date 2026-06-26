@@ -27,7 +27,7 @@ author:
   name             : "Alberto Salguero Alarcón"
   pronouns         : # example: "she/her"  
   bio              : "Profesor Ayudante Doctor"
-  location         : "Madrid"
+  location         : "Madrid, Spain"
   employer         : "UCM"
   uri              : # URL
   email            : "albsalgu@ucm.es" 
@@ -38,6 +38,7 @@ author:
   googlescholar    : 
   inspire-hep      : # URL
   impactstory      : # URL
+  mathscinet       : "https://mathscinet.ams.org/mathscinet/MRAuthorID/1319271"
   orcid            : "https://orcid.org/0000-0001-6100-0766"
   semantic         : # URL
   ssrn             : # URL
@@ -45,6 +46,8 @@ author:
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
+  zbmath           : "https://zbmath.org/authors/salguero-alarcon.alberto"
+  
 
 
   # Repositories and software development
