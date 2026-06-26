@@ -53,6 +53,9 @@
       {% if author.impactstory %}
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw icon-pad-right"></i>Impactstory</a></li>
       {% endif %}
+      {% if site.author.mathscinet %}
+        <li><a href="{{ site.author.mathscinet }}" target="_blank"><i class="fas fa-fw fa-book-open" aria-hidden="true"></i> MathSciNet</a></li>
+      {% endif %}
       {% if author.orcid %}
         <li><a href="{{ author.orcid }}"><i class="ai ai-orcid ai-fw icon-pad-right"></i>ORCID</a></li>
       {% endif %}
@@ -70,6 +73,9 @@
       {% endif %}
       {% if author.ssrn %}
         <li><a href="{{ author.ssrn }}"><i class="ai ai-ssrn ai-fw icon-pad-right"></i>SSRN</a></li>
+      {% endif %}
+      {% if site.author.zbmath %}
+        <li><a href="{{ site.author.zbmath }}" target="_blank"><i class="fas fa-fw fa-infinity" aria-hidden="true"></i> zbMATH</a></li>
       {% endif %}
       {% if author.zotero %}
         <li><a href="{{ author.zotero }}"><i class="ai ai-zotero ai-fw icon-pad-right"></i>Zotero</a></li>
