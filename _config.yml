@@ -368,9 +368,19 @@ compress_html:
 head_scripts:
   - |
     <style>
+      /* 1. Encogemos el grosor del pie de página */
       .page__footer {
         padding-top: 0.8em !important;
         padding-bottom: 0.8em !important;
         margin-top: 1.5em !important;
+      }
+      /* 2. Hacemos desaparecer los botones de Follow y RSS */
+      .page__footer-follow {
+        display: none !important;
+      }
+      /* 3. Reducimos el tamaño del texto del copyright (un 20% más pequeño) */
+      .page__footer-copyright {
+        font-size: 0.8em !important;
+        opacity: 0.75; /* Le da un tono grisáceo elegante para que no resalte tanto */
       }
     </style>
