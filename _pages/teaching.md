@@ -16,9 +16,6 @@ author_profile: true
 ### Master's theses (TFG / TFM)
 - **Espacios de funciones continuas en compactos.** *Álvaro Orejana López*, UCM (ongoing).  
 
-### PhD theses
-
-
 ## Teaching material 
 - Material 1
 - Material 2.
