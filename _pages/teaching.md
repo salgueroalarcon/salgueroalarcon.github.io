@@ -9,7 +9,7 @@ author_profile: true
 ## Thesis supervision
 
 ### Recent Bachelor's theses (TFG / TFM)
-- **l modelo de Black-Scholes con aplicaciones**. *EMarcos de la Llama Angulo*, UCM (ongoing). 
+- **El modelo de Black-Scholes con aplicaciones**. *Marcos de la Llama Angulo*, UCM (ongoing). 
 - **La ecuación de Laplace: desde Poisson hasta Green** *Elena Guede García*, UCM (2026).
 - **Aproximaciones óptimas en espacios de Hilbert.** *Pablo Manuel Cáceres Menacho*, UEx (2021). 
 
