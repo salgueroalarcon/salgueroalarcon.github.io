@@ -8,11 +8,13 @@ author_profile: true
 
 ## Thesis supervision
 
-### Bachelor's and Master's theses (TFG / TFM)
-- TFG 1
-- TFG 2
-- TFG 3
-- TFG 4
+### Recent Bachelor's theses (TFG / TFM)
+- **l modelo de Black-Scholes con aplicaciones**. *EMarcos de la Llama Angulo*, UCM (ongoing). 
+- **La ecuación de Laplace: desde Poisson hasta Green** *Elena Guede García*, UCM (2026).
+- **Aproximaciones óptimas en espacios de Hilbert.** *Pablo Manuel Cáceres Menacho*, UEx (2021). 
+
+### Master's theses (TFG / TFM)
+- **Espacios de funciones continuas en compactos.** *Álvaro Orejana López* , UCM (ongoing).  
 
 ### PhD theses
 
