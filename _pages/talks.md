@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Assistance to conferences"
 permalink: /talks/
 author_profile: true
 ---
@@ -11,6 +11,8 @@ author_profile: true
 
 {% endif %}
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+Some slides
+=====
+- Slides 1
+- Slides 2
+- Slides 3
