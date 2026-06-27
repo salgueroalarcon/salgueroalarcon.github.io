@@ -14,7 +14,7 @@ author_profile: true
 - **Aproximaciones óptimas en espacios de Hilbert.** *Pablo Manuel Cáceres Menacho*, UEx (2021). 
 
 ### Master's theses (TFG / TFM)
-- **Espacios de funciones continuas en compactos.** *Álvaro Orejana López* , UCM (ongoing).  
+- **Espacios de funciones continuas en compactos.** *Álvaro Orejana López*, UCM (ongoing).  
 
 ### PhD theses
 
