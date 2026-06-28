@@ -14,10 +14,10 @@ author_profile: true
 - *Structures in Banach spaces.* Erwin Schrödinger Institute, Vienna, Austria (2025).
 - *Methods in Banach spaces: a satellite conference of the 9ECM.* Badajoz, Spain (2024).
 - *Lattice Structures in Analysis and Applications.* ICMAT, Madrid, Spain (2024). 
-- *Spanish-Polish Matematical Meeting.* Łódź, Poland (2023). 
+- *Spanish-Polish Matematical Meeting.* Łódź, Poland (2023).
 - *VI Encuentro de Jóvenes Investigadores RSME.* León, Spain (2023).
 
-  <span style="font-size: 75%;"> --see below a map with all of them-- </span>
+<span style="font-size: 75%;"> --see below a map with all of them-- </span>
 
 
 ## Some slides
