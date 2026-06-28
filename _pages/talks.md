@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Recent and planned events
-{% if site.talkmap_link == true %}
+
 - *Functional Analysis and Measure Theory: a conference in honor of Lech Drewnowski*. Poznań. Poland (2026).
 - *Workshop on Free Banach Lattices*, Wuppertal, Germany (2026).
 - *Phase Retrieval & Banach Lattices.* Zurich, Switzerland (2025).
@@ -16,6 +16,7 @@ author_profile: true
 - *Spanish-Polish Matematical Meeting.* Łódź, Poland (2023). 
 - *VI Encuentro de Jóvenes Investigadores RSME.* León, Spain (2023).
 
+  {% if site.talkmap_link == true %}
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 
 {% endif %}
