@@ -22,5 +22,7 @@ author_profile: true
 {% endif %}
 
 ## Some slides
+- *Functional Analysis and Measure Theory.* 
+  <a href="/assets/slides/poznan.pdf" target="_blank">PDF</a>
 - *Lattice Structures in Analysis and Applications.* 
   <a href="/assets/slides/poly-twist.pdf" target="_blank">PDF</a>
