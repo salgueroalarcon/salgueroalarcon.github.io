@@ -15,7 +15,7 @@ I obtained my PhD at the Universidad de Extremadura in 2023, under the supervisi
 
 My research focuses mainly on **functional analysis**, with a particular emphasis on *Banach spaces and Banach lattices*, although connections to other areas of mathematics are frequent. My main lines of work include:
 
-- **Spaces of continuous functions in compact spaces** (C(K) spaces), and its interactions with set theory, topology and combinatorics.
+- **Spaces of continuous functions in compact spaces** and its interactions with set theory, topology and combinatorics.
 - **Categorical and homotopical methods** applied to Banach spaces and Banach lattices.
 - **Complex interpolation** with application to Fourier multipliers.
 
