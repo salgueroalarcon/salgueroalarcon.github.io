@@ -12,7 +12,7 @@ author_profile: true
 - *Workshop on Free Banach Lattices*, Wuppertal, Germany (2026).
 - *Phase Retrieval & Banach Lattices.* Zurich, Switzerland (2025).
 - *Structures in Banach spaces.* Erwin Schrödinger Institute, Vienna, Austria (2025).
-- *Methods in Banach spaces: a satellite conference of the 9EMC.* Badajoz, Spain (2024).
+- *Methods in Banach spaces: a satellite conference of the 9ECM.* Badajoz, Spain (2024).
 - *Lattice Structures in Analysis and Applications.* ICMAT, Madrid, Spain (2024). 
 - *Spanish-Polish Matematical Meeting.* Łódź, Poland (2023). 
 - *VI Encuentro de Jóvenes Investigadores RSME.* León, Spain (2023).
