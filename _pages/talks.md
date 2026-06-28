@@ -7,7 +7,7 @@ author_profile: true
 
 ## Recent, planned and prospective events
 
-- <span style="color: #666666;">*VIII Encuentro de Jövenes Investigadores RSME.* Zaragoza, Spain (2027).</span> 
+- <span style="color: #777777;">*VIII Encuentro de Jövenes Investigadores RSME.* Zaragoza, Spain (2027).</span> 
 - *Functional Analysis and Measure Theory: a conference in honor of Lech Drewnowski*. Poznań, Poland (2026).
 - *Workshop on Free Banach Lattices*, Wuppertal, Germany (2026).
 - *Phase Retrieval & Banach Lattices.* Zurich, Switzerland (2025).
