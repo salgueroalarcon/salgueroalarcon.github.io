@@ -16,10 +16,8 @@ author_profile: true
 - *Spanish-Polish Matematical Meeting.* Łódź, Poland (2023). 
 - *VI Encuentro de Jóvenes Investigadores RSME.* León, Spain (2023).
 
-  {% if site.talkmap_link == true %}
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-{% endif %}
+See below a map with all my talks:
+<iframe width="100%" height="488" frameborder="0" title="Felt Map" src="https://felt.com/embed/map/Talks-6qqn1CplQY6GoPMs65VTrC?loc=46.4%2C10.95%2C2.61z&legend=1&cooperativeGestures=1&link=1&geolocation=0&zoomControls=1&scaleBar=1" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 
 ## Some slides
 - **Compact exact sequences, with applications**. *Functional Analysis and Measure Theory* (Poznań, 2026) 
