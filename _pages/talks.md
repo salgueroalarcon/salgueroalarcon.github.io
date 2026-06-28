@@ -22,7 +22,7 @@ author_profile: true
 {% endif %}
 
 ## Some slides
-- *Functional Analysis and Measure Theory.* 
+- **Compact exact sequences, with applications**. *Functional Analysis and Measure Theory* (Poznań, 2026) 
   <a href="/assets/slides/poznan.pdf" target="_blank">PDF</a>
-- *Lattice Structures in Analysis and Applications.* 
+- **Polyhedral spaces, with a twist**. *Lattice Structures in Analysis and Applications* (Madrid, 2023) 
   <a href="/assets/slides/poly-twist.pdf" target="_blank">PDF</a>
