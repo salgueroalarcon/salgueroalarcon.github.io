@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Publications & preprints"
 permalink: /publications/
 author_profile: true
