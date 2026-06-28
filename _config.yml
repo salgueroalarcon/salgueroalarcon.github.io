@@ -349,7 +349,6 @@ head_scripts:
         }
         .page__content, .archive {
           width: calc(70% - 1em) !important; /* El contenido ocupa el 70% */
-          padding-right: 30% !important;       /* <-- ESTA LÍNEA CREA EL HUECO A LA DERECHA */
         }
       }
 
