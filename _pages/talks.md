@@ -28,5 +28,5 @@ author_profile: true
 - *Polyhedral spaces, with a twist*. Lattice Structures in Analysis and Applications (Madrid, 2023). 
   <a href="/assets/slides/poly-twist.pdf" target="_blank">PDF</a>
 
-## Talks geographically
+## A map
 <iframe width="100%" height="488" frameborder="0" title="Felt Map" src="https://felt.com/embed/map/Talks-6qqn1CplQY6GoPMs65VTrC?loc=46.4%2C10.95%2C2.61z&legend=1&cooperativeGestures=1&link=1&geolocation=0&zoomControls=1&scaleBar=1" referrerpolicy="strict-origin-when-cross-origin"></iframe>
