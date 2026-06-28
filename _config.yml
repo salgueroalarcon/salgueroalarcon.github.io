@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "/images/krasnal.png"
   name             : "Alberto Salguero Alarcón"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"  
   bio              : "Profesor Ayudante Doctor"
   location         : "Madrid, Spain"
   employer         : "UCM"
