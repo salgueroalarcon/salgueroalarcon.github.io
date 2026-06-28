@@ -21,6 +21,5 @@ author_profile: true
 {% endif %}
 
 ## Some slides
-- Slides 1
-- Slides 2
-- Slides 3
+- *Lattice Structures in Analysis and Applications.* 
+  <a href="/assets/slides/poly-twist.pdf" target="_blank">PDF</a>
