@@ -342,13 +342,14 @@ head_scripts:
         font-size: 0.8em !important;
         opacity: 0.75; /* Le da un tono grisáceo elegante para que no resalte tanto */
       }
-      /* 4. AMPLIAMOS LA COLUMNA LATERAL (Para pantallas de ordenador) */
+      /* 4. AMPLIAMOS LA COLUMNA LATERAL Y DEJAMOS MARGEN DERECHO */
       @media (min-width: 64em) {
         .sidebar {
-          width: calc(30% - 1em) !important; /* Sube del 25% al 30% */
+          width: calc(30% - 1em) !important; /* Tu foto y datos ocupan el 30% */
         }
         .page__content, .archive {
-          width: calc(70% - 1em) !important; /* Baja del 75% al 70% para equilibrar */
+          width: calc(70% - 1em) !important; /* El contenido ocupa el 70% */
+          padding-right: 6% !important;       /* <-- ESTA LÍNEA CREA EL HUECO A LA DERECHA */
         }
       }
 
