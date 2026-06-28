@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 ## Recent and planned events
-<span style="font-size: 90%;"> --see below a map with all of them-- </span>
 
 - *Functional Analysis and Measure Theory: a conference in honor of Lech Drewnowski*. Poznań. Poland (2026).
 - *Workshop on Free Banach Lattices*, Wuppertal, Germany (2026).
@@ -16,6 +15,8 @@ author_profile: true
 - *Lattice Structures in Analysis and Applications.* ICMAT, Madrid, Spain (2024). 
 - *Spanish-Polish Matematical Meeting.* Łódź, Poland (2023). 
 - *VI Encuentro de Jóvenes Investigadores RSME.* León, Spain (2023).
+
+  <span style="font-size: 90%;"> --see below a map with all of them-- </span>
 
 
 ## Some slides
