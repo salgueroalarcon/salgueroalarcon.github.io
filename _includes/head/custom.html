@@ -1,7 +1,33 @@
 {% include base_path %}
 
 <!-- start custom head snippets -->
+<style>
+  /* Color normal de los enlaces */
+  a {
+    color: #006bb3 !important; 
+  }
+  
+  /* Color cuando pasas el ratón por encima (Hover) */
+  a:hover {
+    color: #ff5722 !important;
+  }
 
+ /* === MODO NOCHE AUTOMÁTICO === */
+  @media (prefers-color-scheme: dark) {
+    
+    /* Color de los enlaces en la oscuridad */
+    a {
+      color: #66b3ff !important; /* Un azul más claro/brillante para que contraste bien sobre fondo oscuro */
+    }
+    
+    /* Color al pasar el ratón en la oscuridad */
+    a:hover {
+      color: #ffb74d !important; /* Un naranja más suave o pastel para que no sature la vista de noche */
+    }
+    
+  }
+</style>
+</style>
 <!-- Support for Academicons -->
 <link rel="preload" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"></noscript>
