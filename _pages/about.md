@@ -6,12 +6,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my webpage!
-
 ## About me
 I am an _Assistant Professor_ (Profesor Ayudante Doctor) in Mathematics at Universidad Complutense de Madrid.
 
 I obtained my PhD at the Universidad de Extremadura in 2023, under the supervision of Profs. F. Cabello Sánchez and J. M. F. Castillo.  I worked as an _Interim Assistant Professor_ at Universidad de Extremadura until 2024, when I moved to Madrid and became _Assistant Professor_ at Universidad Complutense de Madrid.
+
+You can find me at:
+
+*Office 304-I*__
+*Facultad de Ciencias Matemáticas*__
+*Plaza de las Ciencias, s/n*__
+*28040 Madrid (SPAIN)*
 
 ## Research interests
 
