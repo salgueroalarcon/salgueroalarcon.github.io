@@ -357,4 +357,12 @@ head_scripts:
         font-size: 1.25em !important; /* Lo bajamos un pelín (el original es 1.4em) */
         white-space: nowrap;          /* Le prohíbe terminantemente partirse en dos líneas */
       }
+      /* 6. COLOR DE LOS ENLACES */
+      {
+        color: #005bb5 !important; /* (1) Cambia este código por el color de enlace que quieras */
+      }
+      
+      a:hover {
+        color: #ff5722 !important; /* (2) Cambia este código por el color al pasar el cursor */
+      }
     </style>
