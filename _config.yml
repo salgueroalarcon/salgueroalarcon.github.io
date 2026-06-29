@@ -358,8 +358,8 @@ head_scripts:
         white-space: nowrap;          /* Le prohíbe terminantemente partirse en dos líneas */
       }
       /* 6. COLOR DE LOS ENLACES */
-      {
-        color: #005bb5 !important; /* (1) Cambia este código por el color de enlace que quieras */
+      a {
+        color: #00bfff !important; /* (1) Cambia este código por el color de enlace que quieras */
       }
       
       a:hover {
