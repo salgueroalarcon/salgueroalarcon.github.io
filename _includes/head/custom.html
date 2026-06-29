@@ -2,31 +2,36 @@
 
 <!-- start custom head snippets -->
 <style>
-  /* Color normal de los enlaces */
-  a {
-    color: #006bb3 !important; 
-  }
-  
-  /* Color cuando pasas el ratón por encima (Hover) */
-  a:hover {
-    color: #ff5722 !important;
+  /* 1. ESTILOS POR DEFECTO (MODO DÍA) */
+  /* Los encerramos en un bloque "light" para que el modo oscuro no los toque */
+  @media (prefers-color-scheme: light) {
+    body .page__content a, 
+    body .archive a, 
+    body .sidebar a {
+      color: #0056b3 !important; /* Azul modo día */
+    }
+    
+    body .page__content a:hover, 
+    body .archive a:hover, 
+    body .sidebar a:hover {
+      color: #ff5722 !important; /* Naranja modo día */
+    }
   }
 
- /* === MODO NOCHE AUTOMÁTICO === */
+  /* 2. ESTILOS PARA EL MODO NOCHE */
   @media (prefers-color-scheme: dark) {
-    
-    /* Color de los enlaces en la oscuridad */
-    a {
-      color: #ffffff !important; /* Un azul más claro/brillante para que contraste bien sobre fondo oscuro */
+    body .page__content a, 
+    body .archive a, 
+    body .sidebar a {
+      color: #ffffff !important; /* Azul claro modo noche */
     }
     
-    /* Color al pasar el ratón en la oscuridad */
-    a:hover {
-      color: #222222 !important; /* Un naranja más suave o pastel para que no sature la vista de noche */
+    body .page__content a:hover, 
+    body .archive a:hover, 
+    body .sidebar a:hover {
+      color: #222222 !important; /* Naranja suave modo noche */
     }
-    
   }
-</style>
 </style>
 <!-- Support for Academicons -->
 <link rel="preload" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
