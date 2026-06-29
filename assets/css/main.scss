@@ -37,16 +37,3 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
-
-/* --- MIS COLORES PERSONALIZADOS (MODO ESTRICTO) --- */
-body .page__content a, 
-body .archive a, 
-body .sidebar a {
-  color: #005bb5 !important;
-}
-
-body .page__content a:hover, 
-body .archive a:hover, 
-body .sidebar a:hover {
-  color: #ff5722 !important;
-}
