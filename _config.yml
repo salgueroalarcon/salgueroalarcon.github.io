@@ -359,7 +359,7 @@ head_scripts:
       }
       /* 6. COLOR DE LOS ENLACES */
       a {
-        color: #00bfff !important; /* (1) Cambia este código por el color de enlace que quieras */
+        color: #ffffff !important; /* (1) Cambia este código por el color de enlace que quieras */
       }
       
       a:hover {
