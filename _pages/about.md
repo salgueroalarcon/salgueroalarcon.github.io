@@ -12,7 +12,7 @@ I obtained my PhD at the Universidad de Extremadura in 2023, under the supervisi
 
 ## Address
 You can find me at:  
-<div style="margin-left: 2em; font-style: italic;">
+<div style="margin-left: 2em; font-style: italic; font-size: 90%;">
   Office 304-I <br>
   Facultad de Ciencias Matemáticas <br>
   Universidad Complutense de Madrid (Campus Moncloa) <br>
