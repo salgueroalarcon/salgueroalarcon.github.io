@@ -15,17 +15,11 @@ author_profile: true
 <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
 
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
-<script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
-
 1. *New results on Fourier multipliers on $L_p$: a perspective through unimodular symbols* (with M. J. Carro), preprint. <a href="https://arxiv.org/abs/2601.15815" target="_blank">arXiv</a>
 
 2. *Free quasi-Banach lattices* (with P. Tradacete and N. Trejo-Arroyo), preprint. <a href="https://arxiv.org/abs/2512.05273" target="_blank">arXiv</a>
 
-3. *Derived functors associated to the ideal of compact operators in Banach spaces* (with F. Cabello Sánchez, J. M. F. Castillo and N. Trejo-Arroyo), preprint. <a href="https://arxiv.org/abs/2512.18023" target="_blank">arXiv</a>
+3. *Derived functors associated to the ideal of compact operators in Banach spaces* (with F. Cabello Sánchez, J. M. F. Castillo and N. Trejo-Arroyo), to appear in J. Pure Appl. Algebra. <a href="https://arxiv.org/abs/2512.18023" target="_blank">arXiv</a>
 
 4. *A negative solution for the complemented subspace problem in Banach lattices* (with D. de Hevia, G. Martínez-Cervantes and P. Tradacete), to appear in J. Eur. Math. Soc. <a href="https://arxiv.org/abs/2310.02196" target="_blank">arXiv</a>
 
