@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "dirt" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Personal webpage of Alberto Salguero Alarcón"
+title                    : "Alberto Salguero Alarcón"
 title_separator          : "-"
 name                     : &name "Alberto Salguero Alarcón"
 description              : &description "Personal webpage of Alberto Salguero Alarcón, professor at Universidad Complutense de Madrid."   # Update this with a general description of your site, this is the default if not overridden by a page
