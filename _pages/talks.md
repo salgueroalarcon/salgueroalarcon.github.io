@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Assistance to conferences"
+title: "Conference attendance"
 permalink: /talks/
 author_profile: true
 ---
