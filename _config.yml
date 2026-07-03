@@ -338,7 +338,7 @@ head_scripts:
       .page__footer-follow {
         display: none !important;
       }
-      /* 3. Reducimos el tamaño del texto del copyright (un 20% más pequeño) */
+      /* 3. Reducimos el tamaño del texto del copyright */
       .page__footer-copyright {
         font-size: 0.8em !important;
         opacity: 0.75; /* Le da un tono grisáceo elegante para que no resalte tanto */
