@@ -29,4 +29,4 @@ author_profile: true
   <a href="/assets/slides/poly-twist.pdf" target="_blank">PDF</a>
 
 ## A map
-<iframe width="100%" height="488" frameborder="0" title="Felt Map" src="https://felt.com/embed/map/Talks-6qqn1CplQY6GoPMs65VTrC?loc=46.4%2C10.95%2C2.61z&legend=1&cooperativeGestures=1&link=1&geolocation=0&zoomControls=1&scaleBar=1" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<iframe style="width: 100%; height: 300px; border: 0;" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/es/map/my-talks_1430262?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.openstreetmap.fr/es/map/my-talks_1430262?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true">Full screen</a></p>
