@@ -29,4 +29,4 @@ author_profile: true
   <a href="/assets/slides/poly-twist.pdf" target="_blank">PDF</a>
 
 ## A map of events
-<iframe style="width: 100%; height: 500px; border: 0;" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/es/map/my-talks_1430262?scaleControl=true&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=false&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true&captionControl=null"></iframe>
+<iframe style="width: 100%; height: 500px; border: 0;" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/es/map/my-talks_1430262?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true&captionControl=null"></iframe>
