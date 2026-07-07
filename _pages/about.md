@@ -30,5 +30,5 @@ My research focuses mainly on **functional analysis**, with a particular emphasi
 - **Categorical and homological methods** applied to Banach spaces and Banach lattices.
 - **Complex interpolation** with application to Fourier multipliers.
 
-Some keywords are: _almost disjoint families, polyhedral spaces, complemented subspaces, twisted sums, exact sequences, free Banach lattices, analytic families, unimodular multipliers._
+Some keywords are: _C(K)-spaces, almost disjoint families, polyhedral spaces, complemented subspaces, twisted sums, exact sequences, free Banach lattices, analytic families, unimodular multipliers._
 
