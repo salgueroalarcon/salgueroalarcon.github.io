@@ -27,7 +27,8 @@ You can find me at:
 My research focuses mainly on **functional analysis**, with a particular emphasis on *Banach spaces and Banach lattices*, although connections to other areas of mathematics are frequent. My main lines of work include:
 
 - **Spaces of continuous functions in compact spaces** and its interactions with set theory, topology and combinatorics.
-- **Categorical and homological methods** applied to Banach spaces and Banach lattices.
+- **Categorical and homological methods** applied to Banach space theory.
+- **Quasi-Banach spaces and quasi-Banach lattices**.
 - **Complex interpolation** with application to Fourier multipliers.
 
 Some keywords are: _C(K)-spaces, almost disjoint families, polyhedral spaces, complemented subspaces, twisted sums, exact sequences, free Banach lattices, analytic families, unimodular multipliers._
