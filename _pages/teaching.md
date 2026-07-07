@@ -6,8 +6,11 @@ author_profile: true
 ---
 
 ## Current teaching
-- Cálculo Integral (Lebesgue integral and vector calculus).
-- Análisis de Variable Real (derivation and integration of one-variable functions).
+- Cálculo Integral (2º Grado en Matemáticas, UCM): Lebesgue integral and vector calculus.
+- Análisis de Variable Real (1º Grado en Matemáticas, UCM): derivation and integration of one-variable functions.
+
+## Teaching material 
+- Cálculo Integral (2º Grado en Matemáticas, UCM) *(in preparation)*.
 
 
 ## Thesis supervision
@@ -20,7 +23,4 @@ author_profile: true
 
 ### Master's theses (TFM)
 - *Espacios de funciones continuas en compactos.* Álvaro Orejana López, UCM (2026).  
-
-## Teaching material 
-- Cálculo integral (2º Grado en Matemáticas, UCM) *(in preparation)*.
 
