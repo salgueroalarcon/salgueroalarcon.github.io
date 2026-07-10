@@ -23,7 +23,8 @@ My research focuses mainly on **functional analysis**, with a particular emphasi
 
 Some keywords are: _C(K)-spaces, almost disjoint families, polyhedral spaces, complemented subspaces, twisted sums, exact sequences, free Banach lattices, analytic families, unimodular multipliers._
 
-I also belong to the [Banach Lattice research group in Madrid](https://functionalanalysismadrid.com/#home), where we explore the role of proof formalization and Lean verification in functional analysis.  
+Additionally, I am part of the [Banach Lattice research group in Madrid](https://functionalanalysismadrid.com/#home), where we focus on the 
+implementation of automated proof generation and Lean formalization for our research in functional analysis.
 
 ## Address
 You can find me at:  
