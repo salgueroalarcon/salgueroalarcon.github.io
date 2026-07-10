@@ -14,7 +14,9 @@ I obtained my PhD at the Universidad de Extremadura in 2023, under the supervisi
 
 ## Research interests
 
-My research focuses mainly on **functional analysis**, with a particular emphasis on *Banach spaces and Banach lattices*, although connections to other areas of mathematics are frequent. My main lines of work include:
+My research focuses mainly on **functional analysis**, with a particular emphasis on *Banach spaces and Banach lattices*, although connections to other areas of mathematics are frequent. I am part of the [Banach Lattice research group in Madrid](https://functionalanalysismadrid.com/#home). 
+
+My main lines of work include:
 
 - **Spaces of continuous functions in compact spaces** and its interactions with set theory, topology and combinatorics.
 - **Categorical and homological methods** applied to Banach space theory.
