@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Current teaching
+## Current teaching (2026-2027)
 ### Spring semester ###
 - _Cálculo Integral_ (2º Grado en Matemáticas, UCM): Lebesgue integral and vector calculus.
 - _Análisis de Variable Real_ (1º Grado en Matemáticas, UCM): derivation and integration of one-variable functions.
