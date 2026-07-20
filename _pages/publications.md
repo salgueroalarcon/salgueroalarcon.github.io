@@ -21,7 +21,7 @@ author_profile: true
 
 3. *A negative solution for the complemented subspace problem in Banach lattices* (with D. de Hevia, G. Martínez-Cervantes and P. Tradacete), to appear in J. Eur. Math. Soc. <a href="https://arxiv.org/abs/2310.02196" target="_blank">arXiv</a>
 
-4. *Derived functors associated to the ideal of compact operators in Banach spaces* (with F. Cabello Sánchez, J. M. F. Castillo and N. Trejo-Arroyo), J. Pure Appl. Algebra 230, No. 10 (2026) <a href="https://arxiv.org/abs/2512.18023" target="_blank">arXiv</a> \|  <a href="https://doi.org/10.1016/j.jpaa.2026.108342" target="_blank">journal</a>
+4. *Derived functors associated to the ideal of compact operators in Banach spaces* (with F. Cabello Sánchez, J. M. F. Castillo and N. Trejo-Arroyo), J. Pure Appl. Algebra 230, No. 10, Paper No. 108342, 27 p. (2026). <a href="https://arxiv.org/abs/2512.18023" target="_blank">arXiv</a> \|  <a href="https://doi.org/10.1016/j.jpaa.2026.108342" target="_blank">journal</a>
 
 5. *Polyhedrality for twisted sums with $C(\omega^\alpha)$* (with J. M. F. Castillo), Studia Math. 284, No. 1, 91-99 (2025). <a href="https://arxiv.org/abs/2502.17001" target="_blank">arXiv</a>  \|  <a href="https://www.impan.pl/en/publishing-house/journals-and-series/studia-mathematica/online/115933/en/publishing-house/journals-and-series/studia-mathematica/online/284" target="_blank">journal</a>
 
