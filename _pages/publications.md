@@ -14,10 +14,17 @@ author_profile: true
 </script>
 <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
 
+##Preprints##
 
-11\. *New results on Fourier multipliers on $L_p$: a perspective through unimodular symbols* (with M. J. Carro), preprint. <a href="https://arxiv.org/abs/2601.15815" target="_blank">arXiv</a>
+<!-- 4\. *Complementation and extension properties in Banach lattices* (with E. Bilokopytov, P. Tradacete and N. Trejo-Arroyo). <a href="https://arxiv.org/abs/2601.15815" target="_blank">arXiv</a> -->
 
-10\. *Free quasi-Banach lattices* (with P. Tradacete and N. Trejo-Arroyo), preprint. <a href="https://arxiv.org/abs/2512.05273" target="_blank">arXiv</a>
+<!-- 3\. *A positive version of Miljutin's theorem* (with J. Laguna-Ricart, G. Martínez-Cervantes and J. Rondos). <a href="https://arxiv.org/abs/2601.15815" target="_blank">arXiv</a> -->
+
+2\. *New results on Fourier multipliers on $L_p$: a perspective through unimodular symbols* (with M. J. Carro). <a href="https://arxiv.org/abs/2601.15815" target="_blank">arXiv</a>
+
+1\. *Free quasi-Banach lattices* (with P. Tradacete and N. Trejo-Arroyo). <a href="https://arxiv.org/abs/2512.05273" target="_blank">arXiv</a>
+
+##Published and accepted papers##
 
 9\. *A negative solution for the complemented subspace problem in Banach lattices* (with D. de Hevia, G. Martínez-Cervantes and P. Tradacete), to appear in J. Eur. Math. Soc. <a href="https://arxiv.org/abs/2310.02196" target="_blank">arXiv</a>
 
