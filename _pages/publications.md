@@ -18,7 +18,7 @@ author_profile: true
 
 <ol reversed>
   <!-- <li><em>Complementation and extension properties in Banach lattices</em> (with E. Bilokopytov, P. Tradacete and N. Trejo-Arroyo). <a href="https://arxiv.org/abs/2601.15815" target="_blank">arXiv</a></li> -->
-  <!-- <li><em>A positive version of Miljutin's theorem</em> (with J. Laguna-Ricart, G. Martínez-Cervantes and J. Rondos). <a href="https://arxiv.org/abs/2601.15815" target="_blank">arXiv</a></li> -->
+  <li><em>A positive version of Miljutin's theorem</em> (with J. Laguna-Ricart, G. Martínez-Cervantes and J. Rondos). <a href="https://arxiv.org/abs/2609.14148" target="_blank">arXiv</a></li>
   <li><em>New results on Fourier multipliers on $L_p$: a perspective through unimodular symbols</em> (with M. J. Carro). <a href="https://arxiv.org/abs/2601.15815" target="_blank">arXiv</a></li>
   <li><em>Free quasi-Banach lattices</em> (with P. Tradacete and N. Trejo-Arroyo). <a href="https://arxiv.org/abs/2512.05273" target="_blank">arXiv</a></li>
 </ol>
